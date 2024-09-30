@@ -1,0 +1,13 @@
+public class Practice_Set6 {
+    
+    //  calculate the sum of float//
+    public static void main(String[] args) {
+       /*float [] marks = { 45.3f,43.6f,23.4f,23.7f,48.9f};
+        float sum = 0;
+        for(float element: marks){
+        sum= sum+ element;
+    }
+        System.out.println("the sum of element in float"+ sum);  
+}
+
+
